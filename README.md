@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...accessible web development, biology and mycology, and having a good time.
 - 🌱 I’m currently learning ...the fundamentals to front-end development
 - 💞️ I’m looking to collaborate on ...solutions for beginner code debugging, study budy, general education support
-- 📫 How to reach me ...twitter @moss_butter
+- 📫 How to reach me ...twitter or mossbutter@hotmail.com
 
 <!---
 mossbutter/mossbutter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
