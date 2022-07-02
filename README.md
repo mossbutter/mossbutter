@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mossbutter
-- 👀 I’m interested in ...accessible web development, biology and mycology, and having a good time.
-- 🌱 I’m currently learning ...the fundamentals to front-end development
+- 👀 I’m interested in ...accessible web development, UI design, 3DCG, and having a good time.
+- 🌱 I’m currently learning ...the fundamentals to front-end development and dabbling in UI
 - 💞️ I’m looking to collaborate on ...solutions for beginner code debugging, study budy, general education support
 - 📫 How to reach me ...twitter or mossbutter@hotmail.com
 
